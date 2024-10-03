@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 class="heading-element" dir="auto">Hey, I'm Ash 👋🏽</h3>
-<a id="user-content-hey-im-ash" class="anchor" aria-label="Permalink: Hey, I'm Luke 👋🏽" href="#hey-im-ash-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16"height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
+<h3 class="heading-element" dir="auto">Hey, I'm Ashton 👋🏽</h3>
+<a id="user-content-hey-im-ash" class="anchor" aria-label="Permalink: Hey, I'm Ashton 👋🏽" href="#hey-im-ash-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16"height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
 <p dir="auto">I'm a Junior Software Developer based in South Africa.</p>
 <ul dir="auto"> 
 <li>
@@ -66,7 +66,7 @@ Get in Touch, Connect me on <a href="https://www.linkedin.com/in/ashton-padiachy
 <a id="user-content--trophies" class="anchor" aria-label="Permalink: 🏆 Trophies" href="#-trophies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
 <p dir="auto">
 <div>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/build-blazor-webapps.svg" title="Build web apps with Blazor" alt="Build web apps with Blazor" width="40" height="40"/>&nbsp;
+ <a href="https://learn.microsoft.com/api/achievements/share/en-us/AshtonPadiachy-2216/PSMW7CK4?sharingId=1D75A4952F736846" rel="nofollow"> <img src="https://learn.microsoft.com/en-us/training/achievements/build-blazor-webapps.svg" title="Build web apps with Blazor" alt="Build web apps with Blazor" width="40" height="40"/>&nbsp; </a>
   <img src="https://learn.microsoft.com/en-us/training/achievements/power-plat-fundamentals.svg" title="PL-900: Microsoft Power Platform Fundamentals" alt="PL-900: Microsoft Power Platform Fundamentals" width="40" height="40"/>&nbsp;
   <img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg" title="Microsoft Azure Fundamentals: Describe cloud concepts" alt="Microsoft Azure Fundamentals: Describe cloud concepts" width="40" height="40"/>&nbsp;
 </div>
