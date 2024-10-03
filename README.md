@@ -68,9 +68,9 @@ Get in Touch, Connect me on <a href="https://www.linkedin.com/in/ashton-padiachy
 <div>
  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AshtonPadiachy-2216/PSMW7CK4?sharingId=1D75A4952F736846" rel="nofollow"><img src="https://learn.microsoft.com/en-us/training/achievements/build-blazor-webapps.svg" title="Build web apps with Blazor" alt="Build web apps with Blazor" width="40" height="40"/> </a>
   
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AshtonPadiachy-2216/PSMW7CK4?sharingId=1D75A4952F736846" rel="nofollow"><img src="https://learn.microsoft.com/en-us/training/achievements/power-plat-fundamentals.svg" title="PL-900: Microsoft Power Platform Fundamentals" alt="PL-900: Microsoft Power Platform Fundamentals" width="40" height="40"/> </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AshtonPadiachy-2216/NA3EXLVF?sharingId=1D75A4952F736846" rel="nofollow"><img src="https://learn.microsoft.com/en-us/training/achievements/power-plat-fundamentals.svg" title="PL-900: Microsoft Power Platform Fundamentals" alt="PL-900: Microsoft Power Platform Fundamentals" width="40" height="40"/> </a>
   
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AshtonPadiachy-2216/PSMW7CK4?sharingId=1D75A4952F736846" rel="nofollow"> <img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg" title="Microsoft Azure Fundamentals: Describe cloud concepts" alt="Microsoft Azure Fundamentals: Describe cloud concepts" width="40" height="40"/> </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AshtonPadiachy-2216/F7R6SB7X?sharingId=1D75A4952F736846" rel="nofollow"> <img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg" title="Microsoft Azure Fundamentals: Describe cloud concepts" alt="Microsoft Azure Fundamentals: Describe cloud concepts" width="40" height="40"/> </a>
   
 </div>
 
