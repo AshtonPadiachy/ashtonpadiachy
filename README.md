@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </p>
 <p dir="auto">
 <strong>IDE </strong>
-<code> Visual Studio Code, VS Code </code>
+<code> Visual Studio, VS Code </code>
 </p>
 <p dir="auto">
 <strong>Automation </strong>
